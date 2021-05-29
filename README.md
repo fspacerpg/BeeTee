@@ -187,6 +187,10 @@ Help is welcome! If you do not know what to do, just pick one item and send me a
 
 ## Versions
 
+### 3.1
+* Upgrade to Swift 5 and XCode 12.5
+* App Icon added
+
 ### 3.0
 * Rewritten in Swift 3
 * New API
@@ -207,3 +211,4 @@ Help is welcome! If you do not know what to do, just pick one item and send me a
 
 BeeTee is released under the MIT license. See [LICENSE](LICENSE) for more details.
 The list icon was created by Aya Sofya (thenounproject.com).
+AppIcon sourced from: https://www.iconfinder.com/icons/4373262/bluetooth_logo_logos_icon
