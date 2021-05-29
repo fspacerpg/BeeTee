@@ -190,6 +190,7 @@ Help is welcome! If you do not know what to do, just pick one item and send me a
 ### 3.1
 * Upgrade to Swift 5 and XCode 12.5
 * App Icon added
+* This fork version is still a work in progress, so likely won't work - given origin's issue log
 
 ### 3.0
 * Rewritten in Swift 3
